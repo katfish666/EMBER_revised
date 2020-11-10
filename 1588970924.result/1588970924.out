@@ -1,1548 +1,0 @@
-================================================================
-Program: CD-HIT, V4.7 (+OpenMP), Sep 06 2018, 09:36:42
-Command: /data5/data/NGS-ann-project/apps/cd-hit/cd-hit-2d -i
-         1588970924.fas.db1 -i2 1588970924.fas.db2 -o
-         1588970924.fas.db2novel -c 0.4 -n 2 -G 1 -g 1 -b 15 -l
-         2 -s 0.0 -aL 0.0 -aS 0.0 -s2 1.0 -S2 0 -T 4 -M 32000
-
-Started: Fri May  8 13:49:04 2020
-================================================================
-                            Output                              
-----------------------------------------------------------------
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->18
-____MSKSKCSVGPM
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->55
-GEDEESESD______
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->93
-_MERRRITSAARRSY
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->98
-______MSSKKAKTK
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->123
-_____MSSPPPARSG
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->180
-TIYLQVQTGKSSST_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->241
-GAGALVHSE______
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->282
-__MEQRASLDSEESE
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->292
-FGDDEDDSGTEES__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->299
-DCGSHSLSD______
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->317
-ERPYRRESEI_____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->327
-_MARKKFSGLEISLI
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->338
-KGTGASGSF______
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->384
-RKKKVSSTKRH____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->434
-SSIRRLSTRRR____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->446
-___MPEETQTQDQPM
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->447
-_MAKRSRSEDEDDDL
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->458
-SPPSGLWSPAYASH_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->467
-_MSQAYSSSQRVSSY
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->520
-HGGVTGLSQY_____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->538
-_MDFPTISRSPSGPP
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->541
-GDDEESESD______
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->567
-YEDDEEESEAQGPK_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->655
-YHESEEESEEEEAA_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->671
-____MWNSGFESYGS
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->685
-NISYRRESAI_____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->724
-SAQYETLSDSDD___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->725
-CEKQFQPYFIPIN__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->745
-YPSRQMVSLEDDVA_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->754
-NTANRRTTPV_____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->762
-QPLESTQSQDF____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->772
-DHDNDKESDVEI___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->823
-____MEDTQAIDWDV
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->851
-FARRRKRSVSL____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->863
-______MSYTLDSLG
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->871
-SAQGSDVSLTACKV_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->881
-___MLDPSSSEEESD
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->967
-______MSGRGKQGG
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->990
-NETQPPQSE______
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->993
-_____MSSDAEMAIF
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1026
-_MERRRVTSAARRSY
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1047
-SDSLNSPTLLAL___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1073
-______MSRRKQGNP
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1079
-VRRPRPLSEPPRPT_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1090
-___MKAFSPVRSVRK
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1128
-RSSPATQSP______
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1141
-SCTWRRVSSLESEV_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1147
-AAPDADLSQEPHLF_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1153
-LRIMKKTSLY_____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1164
-EGISQESSEEEQ___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1195
-SEGTKAVTKYTSSK_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1221
-___MELLSPPLRDVD
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1236
-RLRGRKRSMVG____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1245
-_MPKRKVSSAEGAAK
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1273
-KKMNRSVSLTIY___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1283
-LKEAEEESSEDD___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1295
-SVKRNDLSIISG___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1312
-KTKGLGESRKDKK__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1316
-RGSPHYFSPFRPY__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1332
-MKGFGEYSRSPTF__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1347
-EEGISQESSEEEQ__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1383
-GAYREHPYGRY____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1394
-__ARTKQTARKSTGG
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1400
-NKEKLEATINELV__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1406
-_MAEAPASPAPLSPL
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1453
-YSQLRKKS_______
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1493
-_MSKSKCSVGLMSSV
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1538
-YEDDDEESEAQGPK_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1546
-PKGTQADYAEVKFQ_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1554
-___METPSQRRATRS
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1649
-PYRSPPPYVPP____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1667
-MASHLRRSQY_____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1685
-__MAVQISKKRKFVA
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1686
-ARESPVHSICDELF_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1702
-QTAAKRASRIYNT__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1730
-IDRGQPPSTKL____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1743
-HPFLRRNSGC_____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1797
-SSHKGFHYKH_____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1858
-NELKKKASLF_____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1864
-_MAESSESFTMASSP
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1883
-GKADPYQYVV_____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1957
-GLMKRRSSV______
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->1978
-TRGKAKVTGRWK___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2029
-LSTPVVLSPGPQKP_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2068
-DEEDNDDSDDDDDE_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2072
-PITPPRNSAKAKK__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2094
-NTTGSDNTDTEGS__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2140
-_MSSPASTPSRRSSR
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2143
-_____MSSPASTPSR
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2158
-DEESNDDSDDDDE__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2161
-NKSESVVYADIRKN_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2163
-__MLDPSSSEEESDE
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2174
-HRAKRRSSGRRYK__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2183
-PFDEDQHTQITKV__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2197
-VPLVQRGSANGL___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2221
-____MAESSESFTMA
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2244
-EFDEDDWSD______
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2265
-RGDGSGFSL______
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2292
-______MSDNEDNFD
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2298
-_____MSSKRAKAKT
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2329
-DVQKSKEYFSKQK__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2342
-DQGKADPYQYVV___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2390
-VPVTALGSPMHSN__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2467
-MEKEDYHSLYQSHL_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2481
-__MPSEKTFKQRRTF
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2488
-EPSGDNISPQDGS__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2506
-PLRSRTVSRQ_____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2512
-PSSDPLGSPTLLAL_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2522
-QAASNFKSPVKTIR_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2558
-PDEEVPESES_____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2612
-SKSWWKKYCCFV___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2636
-STFTNITYRGT____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2640
-YNVYGIESVKI____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2663
-____MNASSRNVFDT
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2679
-PNFGRTQSSDSAYV_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2709
-_MASRGATRPNGPNT
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2724
-_MAAKGGTVKAASGF
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2761
-LPLQVLQSP______
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2769
-KAVTCDISEDEED__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2786
-WQRRQRKSRRTI___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2789
-SNKIRRLSACKQQ__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2806
-___MELLSPPLRDID
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2808
-HHLRVSFSKSTI___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2847
-PSNYDFVYDCN____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2857
-__MGKSESQMDITDI
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2860
-______MSSKRAKAK
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2903
-RSSPATHSP______
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2934
-REHPYGRY_______
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2935
-LNRISMESQM_____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->2992
-ATCHSEDSDLEID__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->3015
-LPIFSRLSISDD___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->3021
-EHISRKRSGEATV__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->3027
-DKEKNKGSLKRK___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->3167
-______MSGDEMIFD
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->3220
-_PKRKVSSAEGAAKE
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->3240
-RLSSFTSYENPT___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->3254
-__MSSESSKKRKPKV
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->3337
-YTATESQYQQQP___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->3350
-VKKVGPDSD______
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->3382
-SEPLHPGYVACS___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->3446
-_____MDSLLMKQKK
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->3488
-_____MSSKTASTNN
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->3517
-___MYHNSSQKRHWT
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->3536
-__MTSASSPPAFRLE
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->3567
-_AAQKRPSQRSKYLA
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->3578
-PQSPANIYYKV____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->3652
-RLMKRRKSV______
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->3666
-______MSDNDDIEV
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->3760
-FTSTEPQYQPGDQT_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->3778
-FTATEGQYQPQP___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->3786
-SALSVRISNV_____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->3794
-CRADELASQDGR___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->3811
-_MGKAENYELYQVEL
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->3952
-NENQLLNSQDC____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->3995
-__MDEDYYGSAAEWG
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4014
-GVGSVEQTPRKRLR_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4039
-___MNGDSRAAVVTS
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4126
-KTMKGSSTPVKN___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4182
-ARKKKVSSTKRH___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4248
-____MKTSPRRPLIL
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4302
-_MAARRITQETFDAV
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4349
-______MSLRSEARV
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4365
-KKKEKVES_______
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4402
-HREERKKTIELTAH_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4405
-IATSMRDSLIDSLT_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4406
-PSSDSLSSPTLLAL_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4411
-IREFLDQYDAPL___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4489
-GRDSRSGSPMARR__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4500
-______MSTESMIRD
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4505
-____MSSSPLSKKRR
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4537
-REAEEESSDDD____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4566
-RQRKSRRTI______
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4607
-YPLDQNLSDED____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4623
-_MASNDYTQQATQSY
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4683
-_MLTFMASDSEEEVC
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4695
-DLSGEEASRPAPQ__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4707
-______MSLKDHLIH
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4736
-__MDPTGSQLDSDFS
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4740
-PIGEDEESESD____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4782
-DDSGTEES_______
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4786
-HAALRRNSDR_____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4853
-DVNKSKEYFSKQK__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4865
-SSKIRRLSACKQQ__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4904
-___MAESSESFTMAS
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4910
-NLGKGGSTPSQ____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4925
-LFKEENPYARFENN_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4944
-PSETLNLSEKCI___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4969
-PSGGKKATQASQEY_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4974
-ARRGKKKSGCLVL__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4992
-_MARGSVSDEEMMEL
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->4994
-_____MSSFSYEPYF
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5004
-PGLRRRQT_______
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5087
-EIIVLSDSD______
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5152
-RSSIRRLSTRRR___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5259
-ASESTEESDSEDDD_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5270
-DPAMFNISPGAVQF_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5298
-GQSWKENSPLNVS__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5349
-KASSRARSDDLTV__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5366
-EKLSSIESDV_____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5369
-LQSPITTSPSC____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5373
-FKTEGPDSD______
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5431
-DCYDDDDSGNEES__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5451
-EEEDGTGSPQLNNR_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5466
-DIADGCIYDND____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5469
-____MEESQSDISLE
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5507
-GKKATQASQEY____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5531
-PRPSHNAYIK_____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5572
-SNQDGNDSDEFM___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5643
-KEAEEESSEDD____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5728
-DKEKSKGSLKRK___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5738
-QAGGRRISLDQQ___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5746
-_MPEETQTQDQPMEE
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5748
-LREAEEESSDDD___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5765
-QRGAFHPSS______
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5776
-AGEKEAKSD______
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5835
-PIGDDEESESD____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5885
-SGIYPPGSPGK____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5890
-LSLQPQLTQRSGLQ_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5960
-____MSLYPSLEDLK
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->5992
-HPRRRSSTS______
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6056
-NDDTDSASTDDMW__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6092
-___MRKETPPPLVPP
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6093
-VPLIQRGSANGL___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6118
-___MSTRSVSSSSYR
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6125
-_MERRRVTSATRRSY
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6196
-DYHSLYQSHL_____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6236
-QSVDKVTSPTKV___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6237
-AKPKFSISPDSLS__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6278
-______MSSDAEMAI
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6295
-TGSDNTDTEGS____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6319
-ELQDSRVYVSSL___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6331
-______MSSKTASTN
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6354
-EETSSQESAEED___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6356
-LRLKQPSTPTRTAV_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6367
-SLKEEDESDDDNM__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6390
-PIKYLEESDEDDLF_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6400
-FTSTEPQYQPGENL_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6426
-DCDFGDLTPLDF___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6428
-SYHLRRYSTP_____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6441
-KPGLGEGTP______
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6478
-______MSDEEVEHV
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6482
-___MGKPTSSGCDWR
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6498
-GGLCDLSSRY_____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6550
-__SQSYSSSQRVSSY
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6553
-VLKGKKLSLPA____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6570
-VTRRTPDYFL_____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6578
-PRYSPRHSRSRSRT_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6585
-SSMDSKSSGWGM___
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6620
-__MEPDNSPRKIQFT
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6634
-QQGEDSGSDPEDTY_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6639
-EEVPESES_______
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6643
-VSVTTLGSPMHSN__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6646
-WNKRTRVSTK_____
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6648
-GSSMDSKSSGWGM__
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6661
-QSSDSLNSPTLLAL_
-Warning: from file "1588970924.fas.db1",
-Discarding invalid sequence or sequence without identifier and description!
-
->6683
-QPPEGQCYSN_____
-total seq in db1: 6430
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->13
-AEEKEAKSD______
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->14
-__MAALKSWLSRSVT
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->31
-GNGNKKKSGKKEKK_
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->36
-SPVLAEDSEGEG___
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->53
-VPEAPGGSAV_____
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->69
-GKKASQASQEY____
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->86
-PRPLRRESEI_____
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->102
-______MSFRKVVRQ
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->152
-______MSSSEEVSW
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->194
-LQNSVKQYSGKFF__
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->223
-_____MSSSEEVSWI
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->247
-__MSGWESYYKTEGD
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->284
-DDEDDSGTEES____
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->339
-_MSKSKCSVGPMSSV
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->345
-_MSTRSVSSSSYRRM
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->392
-TVSKTETSQVAPA__
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->397
-GDKPGADTGR_____
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->400
-___MKALSPVRGCYE
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->407
-PGKARKKSSCQLL__
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->533
-__PKRKVSSAEGAAK
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->548
-NRRKVMDSDEDDDY_
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->647
-ESTEESDSEDDD___
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->697
-CSQYETLSDSE____
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->724
-KRAGGEESQFEMDI_
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->726
-PAASGAPSS______
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->762
-HKPQGKKTKFE____
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->763
-WVRKTPWYQ______
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->777
-ISQQRRKSAMF____
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->817
-_MLDPSSSEEESDEI
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->819
-___MSSESSKKRKPK
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->834
-GFGEYSRSPTF____
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->846
-GLMQQQKSFR_____
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->862
-KKKPKKKSCLLL___
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->934
-QDRRERPY_______
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->937
-PEEIIVLSDSD____
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->994
-YIDAFSDYANFK___
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->1017
-QGLAERISVL_____
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->1029
-RDWTLEDSSQELWK_
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->1031
-___MDFPTISRSPSG
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->1033
-LKQPSTPTRTAV___
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->1034
-TSAAPVPSDNH____
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->1099
-_MEPAAGSSMEPSAD
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->1103
-IDAAEGPSDIPD___
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->1113
-___MARGSVSDEEMM
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->1143
-PKRLGAHTP______
-Warning: from file "1588970924.fas.db2",
-Discarding invalid sequence or sequence without identifier and description!
-
->1150
-LGGLCDLSSRY____
-total seq in db2: 1134
-longest and shortest : 15 and 15
-Total letters: 96450
-Sequences have been sorted
-longest and shortest : 15 and 15
-Total letters: 17010
-
-Approximated minimal memory consumption:
-Sequence        : 0M
-Buffer          : 4 X 10M = 42M
-Table           : 2 X 0M = 0M
-Miscellaneous   : 0M
-Total           : 42M
-
-Table limit with the given memory limit:
-Max number of representatives: 4000000
-Max number of word counting entries: 3994651278
-
-...... 0.2% 0.4% 0.6% 0.8% 1.0% 1.1% 1.3% 1.7% 2.1% 2.3% 2.5% 2.6% 3.0% 3.2% 3.4% 3.5% 3.8% 4.0% 4.1% 4.3% 4.7% 4.9% 5.2% 5.4% 5.6% 6.0% 6.3% 6.5% 6.8% 7.1% 7.3% 7.6% 7.8% 8.1% 8.3% 8.6% 8.7% 8.9% 9.2% 9.3% 9.6% 9.8%10.1%10.2%10.4%10.6%10.8%10.9%11.4%11.7%11.9%12.1%12.3%12.5%12.8%13.1%13.4%13.6%13.8%14.0%14.2%14.4%14.6%15.0%15.2%15.4%15.6%15.8%16.0%16.1%16.3%16.5%16.7%17.0%17.2%17.4%17.6%17.9%18.1%18.3%18.6%18.9%19.1%19.3%19.5%19.7%19.8%20.0%20.2%20.4%20.5%20.8%21.0%21.2%21.3%21.5%21.7%21.9%22.0%22.2%22.4%22.6%22.8%23.2%23.5%23.6%24.1%24.4%24.7%24.9%25.1%25.4%25.8%26.0%26.2%26.4%26.5%26.8%27.1%27.3%27.5%27.7%28.1%28.4%28.6%28.7%28.9%29.1%29.3%29.5%29.7%29.9%30.1%30.2%30.4%30.6%30.9%31.1%31.3%31.6%31.8%32.0%32.2%32.4%32.5%32.7%32.9%33.1%33.2%33.5%33.7%34.0%34.3%34.7%34.6%34.8%35.0%35.3%35.4%35.6%35.8%36.0%36.2%36.6%36.8%36.9%37.2%37.5%37.8%38.0%38.2%38.4%38.5%38.8%39.0%39.2%39.5%39.9%40.0%40.2%40.4%40.6%40.8%41.0%41.2%41.4%41.5%41.8%42.0%42.2%42.6%42.9%43.1%43.4%43.6%44.0%44.3%44.4%44.6%44.8%45.0%45.1%45.3%45.8%45.9%46.2%46.4%46.6%46.7%47.0%47.3%47.4%47.6%47.8%48.0%48.1%48.5%48.9%49.0%49.2%49.4%49.6%49.8%50.1%50.4%50.5%50.7%50.9%51.1%51.2%51.4%51.6%51.8%51.9%52.1%52.3%52.6%52.7%52.9%53.1%53.3%53.4%53.6%53.9%54.1%54.3%54.6%54.9%55.0%55.2%55.5%55.6%55.8%56.0%56.2%56.4%56.6%56.8%57.0%57.1%57.3%57.5%57.7%57.8%58.2%58.4%58.6%58.7%58.9%59.1%59.3%59.5%59.7%59.9%60.1%60.2%60.4%60.6%60.8%61.0%61.2%61.5%61.6%61.8%62.0%62.2%62.3%62.5%62.8%63.0%63.1%63.4%63.7%63.9%64.1%64.3%64.5%64.6%64.8%65.1%65.3%65.4%65.6%65.8%66.0%66.1%66.3%66.5%66.7%66.8%67.1%67.5%67.9%68.1%68.3%68.5%68.8%69.0%69.2%69.7%69.9%70.1%70.3%70.5%70.8%71.0%71.2%71.3%71.5%71.7%72.0%72.1%72.3%72.5%72.7%72.8%73.2%73.4%73.6%73.9%74.2%74.3%74.5%74.8%75.0%75.1%75.4%75.6%75.7%75.9%76.1%76.3%76.6%76.8%77.1%77.5%77.7%77.9%78.1%78.5%78.7%78.9%79.3%79.5%79.6%79.8%80.0%80.2%80.3%80.6%81.0%81.3%81.5%81.7%81.8%82.0%82.2%82.4%82.5%82.7%83.1%83.3%83.5%83.8%84.0%84.1%84.3%84.5%84.7%84.8%85.0%85.2%85.4%85.5%85.8%86.2%86.4%86.6%86.8%86.9%87.3%87.5%87.7%87.8%88.2%88.5%88.4%88.8%89.1%89.4%89.7%89.9%90.0%90.2%90.4%90.6%90.9%91.3%91.4%91.6%91.8%92.0%92.2%92.4%92.6%92.8%93.0%93.2%93.5%93.7%93.9%94.1%94.3%94.5%95.0%95.2%95.4%95.7%95.9%96.0%96.2%96.4%96.6%96.8%97.1%97.3%97.4%97.7%98.0%98.2%98.4%98.8%99.0%99.2%99.5%99.7%99.9%..........        0  compared          0  clusters
-
-1134 compared	1132 clustered
-writing non-redundant sequences from db2
-writing clustering information
-program completed !
-
-Total CPU time 6.45
