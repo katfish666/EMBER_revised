@@ -1,3 +1,4 @@
+
 from keras.models import Model
 from keras.layers.core import Dense, Dropout, Activation
 from keras.layers.convolutional import Convolution2D
@@ -8,6 +9,8 @@ from keras.layers.normalization import BatchNormalization
 from keras.regularizers import l2
 import keras.backend as K
 from keras.layers import Conv1D,Conv2D, MaxPooling2D
+
+K.set_image_data_format('channels_first')
 
 
 def conv_factory(x, init_form, nb_filter, filter_size_block, dropout_rate=None, weight_decay=1E-4):
